@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Czym jest Focus Sprint ADHD w NCNI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Focus Sprint to autorska metoda terapii ADHD łącząca VR, biofeedback (EEG/HRV) i trening uwagi. Protokół dostosowany do dzieci, młodzież i dorosłych. Wyniki mierzone są poprzez analizę HRV, testy poznawcze i feedback pacjenta."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Jak działa VR w terapii fobii i PTSD?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wykorzystujemy VR do ekspozycji terapeutycznej - pacjent w kontrolowanym, bezpiecznym środowisku VR stopniowo się oswaja z obiektem lęku. Technika wspierana przez psychoedukację i biofeedback do regulacji stresu."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Czy sesje NCNI są dostępne online?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tak. Oferujemy sesje stacjonarne w naszym Centrum (Wrocław) oraz sesje online. Rezerwacje przez portal www.ncni.pl lub kontakt: +48 600 608 333."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Jakie są główne zaburzenia, które leczymy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ADHD/ADD, Stres chroniczny, Fobie, PTSD, Zaburzenia snu, Depresja, Zaburzenia lękowe, Uzależnienia, Spektrum autyzmu (ASD), Brain fog."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Czy NCNI współpracuje z ubezpieczeniami zdrowotnymi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Szczegóły refundacji i współpracy z ubezpieczeniami dostępne są na naszej stronie lub bezpośrednio u naszego zespołu administracyjnego."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ile trwa sesja terapeutyczna?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standardowa sesja trwa 60 minut. Pierwsza wizyta obejmuje kwalifikację i ustalenie planu terapii. Czas dostosowywany indywidualnie."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Jakie są efekty HRV biofeedback?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "HRV biofeedback poprawia regulację autonomicznego systemu nerwowego, zmniejsza stres, podnosi koncentrację i poprawia jakość snu. Rezultaty mierzone są poprzez zmianę wskaźnika zmienności HR."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Jak mogę się umówić na sesję?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zarezerwuj poprzez: 1) Portal ncni.pl (klik 'Umów sesję'), 2) Email: kontakt@ncni.pl, 3) Telefon: +48 600 608 333, 4) WhatsApp/Messenger."
+      }
+    }
+  ]
+}
